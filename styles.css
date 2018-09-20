@@ -2,7 +2,7 @@ h1{
     color: 858585;
     font-Size: 300%;
 }
-.border { border-width: 25px; border-color: white; border-style: solid; }
+.border { border-width: 25px; border-color: #D0E8E8; border-style: solid; }
 div{
     LINE-HEIGHT: 25px;
 }
@@ -12,4 +12,7 @@ a{
 }
 #p1{
     font-Size: 130%;
+}
+body{
+    background-color: #D0E8E8;
 }
