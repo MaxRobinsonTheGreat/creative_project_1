@@ -1,0 +1,15 @@
+h1{
+    color: 858585;
+    font-Size: 300%;
+}
+.border { border-width: 25px; border-color: white; border-style: solid; }
+div{
+    LINE-HEIGHT: 25px;
+}
+a{
+    font-size: 200%;
+    color: red;
+}
+#p1{
+    font-Size: 130%;
+}
